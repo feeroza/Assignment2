@@ -1,0 +1,25 @@
+.nav{
+    background-color: darkred;
+    color:chocolate;
+    padding: 1rem;
+    text-align:right;
+}
+
+  .nav ul{
+    list-style:circle;
+    margin: 10;
+    padding:6;
+    
+  } 
+  .nav li{
+    display: inline-block;
+    margin-right:20px;
+ 
+  } 
+  .nav a{
+    color:chartreuse;
+    text-decoration:none
+  } 
+  
+     
+  

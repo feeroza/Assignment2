@@ -1,0 +1,9 @@
+.Footer{
+    background-color: blueviolet;
+    color:antiquewhite;
+    padding: 35PX;
+    position:fixed;
+    bottom: 0;
+    width:100%;
+    
+}   

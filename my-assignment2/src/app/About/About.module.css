@@ -1,0 +1,26 @@
+
+.container{
+    max-width: 800;
+    max-height: 800;
+    margin: 40 px;
+    padding: 20px;
+    border: 5px solid #ddd;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+.main{
+    display: flex;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content: center;
+    padding: 170px;
+
+}
+    .h1{
+        color:blueviolet;
+        font-size: 36px;
+    }
+    .p{
+        font-size: 18px;
+        color: #3591d3;
+    
+    }
